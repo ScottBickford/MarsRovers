@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RoverInstructionsInput snapshot renders 1`] = `
+<div
+  className="ui segments"
+>
+  <div
+    className="ui green inverted segment"
+  >
+    <div
+      className="ui header"
+    >
+      Output
+    </div>
+  </div>
+  <div
+    className="ui attached segment"
+  >
+    <div>
+      1
+       
+      3
+       
+      N
+    </div>
+    <div>
+      5
+       
+      1
+       
+      E
+    </div>
+  </div>
+</div>
+`;
+
+exports[`RoverInstructionsOutput snapshot renders 1`] = `
+<div
+  className="ui segments"
+>
+  <div
+    className="ui green inverted segment"
+  >
+    <div
+      className="ui header"
+    >
+      Output
+    </div>
+  </div>
+  <div
+    className="ui attached segment"
+  >
+    <div>
+      1
+       
+      3
+       
+      N
+    </div>
+    <div>
+      5
+       
+      1
+       
+      E
+    </div>
+  </div>
+</div>
+`;

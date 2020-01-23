@@ -1,0 +1,1002 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RoverInstructionsOutput snapshot renders 1`] = `
+Array [
+  <h3>
+    Visual Coverage
+  </h3>,
+  <div
+    className="ui stackable three column grid"
+  >
+    <div
+      className="column"
+    >
+      <label>
+        Rover 
+        1
+         coverage
+      </label>
+      <table
+        className="ui celled collapsing table"
+      >
+        <tbody
+          className=""
+        >
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div
+      className="column"
+    >
+      <label>
+        Rover 
+        2
+         coverage
+      </label>
+      <table
+        className="ui celled collapsing table"
+      >
+        <tbody
+          className=""
+        >
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "lightblue",
+                }
+              }
+            />
+          </tr>
+          <tr
+            className=""
+          >
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+            <td
+              className=""
+              style={
+                Object {
+                  "backgroundColor": "white",
+                }
+              }
+            />
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>,
+  <div
+    style={
+      Object {
+        "paddingTop": 15,
+      }
+    }
+  >
+    <label>
+      Total Coverage
+    </label>
+    <table
+      className="ui celled collapsing table"
+    >
+      <tbody
+        className=""
+      >
+        <tr
+          className=""
+        >
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+        </tr>
+        <tr
+          className=""
+        >
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+        </tr>
+        <tr
+          className=""
+        >
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+        </tr>
+        <tr
+          className=""
+        >
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+        </tr>
+        <tr
+          className=""
+        >
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "lightblue",
+              }
+            }
+          />
+        </tr>
+        <tr
+          className=""
+        >
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+          <td
+            className=""
+            style={
+              Object {
+                "backgroundColor": "white",
+              }
+            }
+          />
+        </tr>
+      </tbody>
+    </table>
+  </div>,
+]
+`;

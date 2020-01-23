@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RoverInstructionsInput snapshot renders 1`] = `
+<form>
+  <div
+    className="ui segments"
+  >
+    <div
+      className="ui teal inverted segment"
+    >
+      <div
+        className="ui header"
+      >
+        Input
+      </div>
+    </div>
+    <div
+      className="ui attached segment"
+    >
+      <textarea
+        onChange={[Function]}
+        placeholder="Enter your instructions here..."
+        rows="10"
+        style={
+          Object {
+            "width": "100%",
+          }
+        }
+        value="5 5\\\\n1 2 N\\\\nLMLMLMLMM\\\\n3 3 E\\\\nMMRMMRMRRM"
+      />
+      <div
+        className="ui divider"
+      />
+      <button
+        className="ui button"
+        onClick={[Function]}
+      >
+        Submit
+      </button>
+    </div>
+  </div>
+</form>
+`;
